@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Expense Tracker
 
 A full-stack expense tracking application built with FastAPI, Streamlit, and PostgreSQL. Originally deployed with Docker Compose, then migrated to Kubernetes without any data loss.
@@ -424,6 +423,3 @@ make build   # build docker images
 make push    # push images to Docker Hub
 make ship    # build + push (release)
 ```
-=======
-# shipyard
->>>>>>> a04ab8740c0a8dbf5c211b463477b105a441c720
