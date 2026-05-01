@@ -1,0 +1,13 @@
+# Secrets — never commit
+.env
+
+# Database backup — contains real data
+backup.sql
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac
+.DS_Store
